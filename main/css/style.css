@@ -1,0 +1,23 @@
+.uploadForm {
+    width: 60%;
+}
+
+.file-section {
+    width: 70%;
+}
+
+.btn-submit {
+    position:absolute;
+    bottom:0;
+}
+
+.sub {
+    width: 110px;
+}
+
+form .inline-block {
+    display:inline-block;
+    height: 59px;
+    position:relative !important;
+    vertical-align: bottom;
+}
